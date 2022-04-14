@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @corsoNova
+- 🌱 I’m currently learning Web Development
